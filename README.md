@@ -1,9 +1,6 @@
-# Nome do projeto
+# Entermotion test
+###### to: Brian & Entermotion team
 
-## 💻 Deploy
-
-*   The Branch main in this repo is auto-deployed on netlify 🦈
-* [Access the link here](https://prismatic-faun-e0d2f0.netlify.app)
 
 ### :eight_pointed_black_star: Descripion and Comments 
 
@@ -17,7 +14,11 @@ To make some difference, I create a new selection from cities, to make a better 
 
 Another resolution I made, was to make the responsible version for mobile users.
 
+## 💻 Deploy
 
+*   The Branch main in this repo is auto-deployed on netlify 🦈
+* [Access the link here](https://prismatic-faun-e0d2f0.netlify.app)
+* 
 ### Checklist ideas:
 
 - [x] Mobile v1 :iphone:
