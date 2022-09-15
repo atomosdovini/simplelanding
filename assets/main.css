@@ -98,6 +98,7 @@ select {
 .row.g-3.form-control {
     margin-top: -2%;
     width: 400px;
+    --bs-gutter-x: 1.5rem;
 }
 button.btn.btn-danger {
     width: 100%;
