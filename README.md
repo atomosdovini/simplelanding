@@ -2,7 +2,7 @@
 ###### to: Brian & Entermotion team
 [🔗 DEPLOY LINK](https://prismatic-faun-e0d2f0.netlify.app)
 
-### 🏳️ Descripion and Comments 
+### 🏳️ Description and Comments 
 
 I don't think we required big frameworks, like react, in this simple test.  if costs and maintenance are important concerns, the best solution I suggest is to create the page with  HTML, CSS, and Js if necessary.
 
