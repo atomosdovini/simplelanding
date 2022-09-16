@@ -1,11 +1,10 @@
-# Entermotion test
+# Entermotion test 🦈 
 ###### to: Brian & Entermotion team
-[GO TO TEST](https://prismatic-faun-e0d2f0.netlify.app)
-  
+[🔗 DEPLOY LINK](https://prismatic-faun-e0d2f0.netlify.app)
 
-### :eight_pointed_black_star: Descripion and Comments 
+### 🏳️ Descripion and Comments 
 
-I don't think we required big frameworks, like react, in this simple test.  if costs and maintenance are important concerns, the best solution I suggest is to create the page with  HTML, CSS, and Js.
+I don't think we required big frameworks, like react, in this simple test.  if costs and maintenance are important concerns, the best solution I suggest is to create the page with  HTML, CSS, and Js if necessary.
 
 After getting the assets I looked at what I needed to use in the template, and separate the assets. You talk about not thinking about integration with maps, even though that is easy, I use the PSD, to save new assets, creating with the specifications.
 
@@ -13,26 +12,25 @@ In the next steps, I just need to separate the fonts, and assets, and start thin
 
 To make some difference, I create a new selection from cities, to make a better user experience, and add form validators.
 
-Another resolution I made, was to make the responsible version for mobile users.
+Another resolution I made, was the responsible version for mobile users with the rest of time.
 
 ## 💻 Deploy
 
-*   The Branch main in this repo is auto-deployed on netlify 🦈
-* [Access the site here](https://prismatic-faun-e0d2f0.netlify.app)
+* Push on Branch main is auto-deployed on netlify 
+* [Access the site here 🔗 ](https://prismatic-faun-e0d2f0.netlify.app)
   
+#### ⏲️ Time used to create and document the test
+📅 14/09 - 2h (organize assets/ambient, initiate coding)
+📅 15/09 - 5h30 (finish code, deploy, document)
 
-### Checklist ideas:
+-------------
+#### :triangular_flag_on_post:  Checklist ideas:
 
-- [x] Mobile v1 :iphone:
+- [x] Mobile v1.0
 - [x] Validation form ✅
 - [ ] Maps integration 
-- [ ] test for form
 - [ ] Backend integration
+- [ ] test for form
 - [ ] SEO 
 - [ ] Cookies Section, Police Privacy 
 - [ ] Use segment/Hotjar, which are easy to use, to collect user data and make A/B tests if their needs.
-
- 
-
-
-[⬆ Voltar ao topo](#nome-do-projeto) `<br>`
