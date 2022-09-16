@@ -1,6 +1,7 @@
 # Entermotion test
 ###### to: Brian & Entermotion team
-
+[GO TO TEST](https://prismatic-faun-e0d2f0.netlify.app)
+  
 
 ### :eight_pointed_black_star: Descripion and Comments 
 
@@ -17,8 +18,9 @@ Another resolution I made, was to make the responsible version for mobile users.
 ## 💻 Deploy
 
 *   The Branch main in this repo is auto-deployed on netlify 🦈
-* [Access the link here](https://prismatic-faun-e0d2f0.netlify.app)
-* 
+* [Access the site here](https://prismatic-faun-e0d2f0.netlify.app)
+  
+
 ### Checklist ideas:
 
 - [x] Mobile v1 :iphone:
@@ -26,6 +28,7 @@ Another resolution I made, was to make the responsible version for mobile users.
 - [ ] Maps integration 
 - [ ] test for form
 - [ ] Backend integration
+- [ ] SEO 
 - [ ] Cookies Section, Police Privacy 
 - [ ] Use segment/Hotjar, which are easy to use, to collect user data and make A/B tests if their needs.
 
