@@ -1,5 +1,4 @@
-# Entermotion test 🦈 
-###### to: Brian & Entermotion team
+
 [🔗 DEPLOY LINK](https://prismatic-faun-e0d2f0.netlify.app)
 
 ### 🏳️ Description and Comments 
@@ -19,10 +18,6 @@ Another resolution I made, was the responsible version for mobile users with the
 * Push on Branch main is auto-deployed on netlify 
 * [Access the site here 🔗 ](https://prismatic-faun-e0d2f0.netlify.app)
   
-#### ⏲️ Time used to create and document the test
-📅 14/09 - 2h (organize assets/ambient, initiate coding)
-📅 15/09 - 5h30 (finish code, deploy, document)
-
 -------------
 #### :triangular_flag_on_post:  Checklist ideas:
 
